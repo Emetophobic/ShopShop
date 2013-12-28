@@ -1,4 +1,4 @@
 ShopShop
 ========
 
-Lightweight shopping system for the masses
+Lightweight content management system for the masses
