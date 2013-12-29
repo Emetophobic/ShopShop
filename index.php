@@ -20,7 +20,12 @@
 # Lightweight content management and orders system for the masses
 # ============================================================================================
 
-include("ss-global.php");
+require_once "ss-global.php";
+
+$tpl->SetParam('page_title', 'ShopShop');
+$tpl->SetParam('perm_level', 1);
+
+$tpl->AddGeneric('generic-header');
 
 echo '<img src="' . $www . '__sysfiles/images/logo.png"><br>';
 echo 'ShopShop have successfully connected to the database → <b>' . $database->host_info . "</b>\n";

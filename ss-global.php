@@ -24,5 +24,10 @@
 
 	@include("./__includes/mysqlConnector.php");
 	@include("./__includes/ss-config.php");
+	@include("./__includes/class.ss.php");
+	@include("./__includes/ss-themer.php");
+	
+	$tpl = new Themer();
+	$core = new ssCore();
 
 ?>

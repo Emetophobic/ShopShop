@@ -1,0 +1,46 @@
+/*
+	ShopShop System Error styles
+	Emetophobic @ emetophobic.com - 2014
+*/
+
+body {
+	background-color: #50AFE4;
+}
+
+#error {
+	border-left: 5px solid rgba(0,0,0,0.15);
+	border-right: 5px solid rgba(0,0,0,0.15);
+	border-bottom: 5px solid rgba(0,0,0,0.15);
+	border-radius: 0px 0px 5px 5px;
+	padding: 10px;
+	width: 25%;
+	font-family: 'Tahoma', sans-serif;
+	margin-top: -20px;
+	margin: auto;
+	background-color: #FFF;
+}
+
+h3 {
+	border-radius: 5px 5px 0px 0px;
+	border-top: 5px solid rgba(0,0,0,0.15);
+	border-left: 5px solid rgba(0,0,0,0.15);
+	border-right: 5px solid rgba(0,0,0,0.15);
+	background-color: #254a9c;
+	color: #FFF;
+	padding: 10px;
+	width: 25%;
+	font-family: 'Tahoma', sans-serif;
+	margin: auto;
+}
+
+i {
+	font-family: 'Tahoma', sans-serif;
+}
+
+img {
+	margin-left: 36.7%;
+	margin-bottom: 10px;
+	border-radius: 5px;
+	background-color: #FFF;
+}
+

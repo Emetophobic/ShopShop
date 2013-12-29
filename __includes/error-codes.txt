@@ -1,0 +1,7 @@
+1 - Database (Invalid Host)
+2 - Database (Invalid user)
+3 - Database (Invalid password)
+4 - Database (Invalid database name)
+5 - Template (Missing template file)
+6 - Template (Missing main theme directory)
+7 - System (Missing system themes directory)
